@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yaml.NET", "Yaml.NET\Yaml.NET.csproj", "{45DBC4D5-C05A-40AA-AA9E-3060E76522B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaml.NET.Tests", "Yaml.NET.Tests\Yaml.NET.Tests.csproj", "{ACF98DDC-F790-493A-BDCF-D0FBC0D395DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DBC4D5-C05A-40AA-AA9E-3060E76522B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DBC4D5-C05A-40AA-AA9E-3060E76522B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DBC4D5-C05A-40AA-AA9E-3060E76522B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DBC4D5-C05A-40AA-AA9E-3060E76522B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF98DDC-F790-493A-BDCF-D0FBC0D395DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF98DDC-F790-493A-BDCF-D0FBC0D395DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF98DDC-F790-493A-BDCF-D0FBC0D395DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF98DDC-F790-493A-BDCF-D0FBC0D395DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C611931-D6F5-4611-A9B3-A368E1BAD0ED}
+	EndGlobalSection
+EndGlobal
