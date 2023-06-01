@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Yaml.NET\Yamly.csproj" />
+    <ProjectReference Include="..\Yamly\Yamly.csproj" />
   </ItemGroup>
 
 </Project>
