@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Runtime.InteropServices;
 
-namespace Yaml.NET;
+namespace Yamly;
 
 public sealed record class SequenceNode() : Node(NodeKind.Sequence, Tag.Sequence), IList<Node>
 {

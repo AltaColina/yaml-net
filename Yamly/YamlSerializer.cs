@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Globalization;
 using System.Text;
 
-namespace Yaml.NET;
+namespace Yamly;
 
 public sealed class YamlSerializer
 {

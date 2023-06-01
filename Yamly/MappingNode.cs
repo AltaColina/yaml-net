@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Diagnostics.CodeAnalysis;
 
-namespace Yaml.NET;
+namespace Yamly;
 
 public sealed record class MappingNode() : Node(NodeKind.Mapping, Tag.Mapping), IDictionary<string, Node>
 {

@@ -1,4 +1,4 @@
-﻿namespace Yaml.NET;
+﻿namespace Yamly;
 
 public sealed record class ScalarNode(Tag Tag, ScalarKind ScalarKind, object? Value) : Node(NodeKind.Scalar, Tag)
 {

@@ -1,4 +1,4 @@
-namespace Yaml.NET.Tests;
+namespace Yamly.Tests;
 
 public sealed class ScalarNodeTests
 {

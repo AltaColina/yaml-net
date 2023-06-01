@@ -1,4 +1,4 @@
-﻿namespace Yaml.NET;
+﻿namespace Yamly;
 
 public enum NodeKind
 {

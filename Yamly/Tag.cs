@@ -1,4 +1,4 @@
-﻿namespace Yaml.NET;
+﻿namespace Yamly;
 
 public sealed record class Tag(string Name)
 {

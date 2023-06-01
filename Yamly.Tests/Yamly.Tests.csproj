@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Yaml.NET\Yaml.NET.csproj" />
+    <ProjectReference Include="..\Yaml.NET\Yamly.csproj" />
   </ItemGroup>
 
 </Project>
